@@ -19,6 +19,7 @@ Fonctionnement
 ==============
 
 L'application web se présente de la manière suivante, l'utilisateur arrive sur une barre de recherche. Trois possibilités s'offre à lui :
+
 1. Il ne met rien est appuie sur 'Entrer' pour lister tous les geeks
 2. Il saisie un pseudo ou le début d'un pseudo et appuie sur 'Entrer' pour lancer la recherche
 3. Il décide d'avoir plus d'option de recherche, dans ce cas un simple clic sur la flêche situé à droite de la barre de recherche lui permettra de
